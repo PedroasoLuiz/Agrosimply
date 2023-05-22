@@ -3463,19 +3463,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\pedro\\.nuget\\packages\\": {}
+    "C:\\Users\\larip\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pedro\\Projetos em execução\\Agrosimply\\Agrosimply_V1.0\\Agrosimply_V1.0\\Agrosimply_V1.0.csproj",
+      "projectUniqueName": "C:\\Users\\larip\\OneDrive\\Documentos\\Lari\\Aulas\\AgroSimply\\Agrosimply\\Agrosimply_V1.0\\Agrosimply_V1.0\\Agrosimply_V1.0.csproj",
       "projectName": "Agrosimply_V1.0",
-      "projectPath": "C:\\Users\\pedro\\Projetos em execução\\Agrosimply\\Agrosimply_V1.0\\Agrosimply_V1.0\\Agrosimply_V1.0.csproj",
-      "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pedro\\Projetos em execução\\Agrosimply\\Agrosimply_V1.0\\Agrosimply_V1.0\\obj\\",
+      "projectPath": "C:\\Users\\larip\\OneDrive\\Documentos\\Lari\\Aulas\\AgroSimply\\Agrosimply\\Agrosimply_V1.0\\Agrosimply_V1.0\\Agrosimply_V1.0.csproj",
+      "packagesPath": "C:\\Users\\larip\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\larip\\OneDrive\\Documentos\\Lari\\Aulas\\AgroSimply\\Agrosimply\\Agrosimply_V1.0\\Agrosimply_V1.0\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\larip\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3541,7 +3541,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }
