@@ -2,7 +2,7 @@
 {
 	public class Usuario
 	{
-		protected string Login { get; set; }
+		public string Login { get; set; }
 		protected string Senha { get; set; }
 	}
 }

@@ -8,7 +8,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Imagens\" />
+    <Compile Remove="Imagens\**" />
+    <Content Remove="Imagens\**" />
+    <EmbeddedResource Remove="Imagens\**" />
+    <None Remove="Imagens\**" />
   </ItemGroup>
 
   <ItemGroup>
