@@ -42,7 +42,17 @@ app.MapGet("/weatherforecast", () =>
 .WithName("GetWeatherForecast")
 .WithOpenApi();
 
+
+
+app.MapPropriedadeEndpoints();
+
+app.MapTelefoneEndpoints();
+
+app.MapUsuarioEndpoints();
+
 app.MapProdutorEndpoints();
+
+
 
 app.Run();
 

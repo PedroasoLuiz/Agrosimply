@@ -1,9 +1,14 @@
-﻿namespace AgroSimply_V2
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace AgroSimply_V2
 {
     public class Telefone
     {
-        protected int ProdutorId { get; set; }
-        protected int Numero { get; set; }
-        protected string Tipo { get; set; }
+        [Key]
+        public int IdTel { get; set; }
+        public int ProdutorId { get; set; }
+
+        public int Numero { get; set; }
+        public string Tipo { get; set; }
     }
 }

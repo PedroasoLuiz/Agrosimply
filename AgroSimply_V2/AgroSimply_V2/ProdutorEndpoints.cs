@@ -17,7 +17,7 @@ public static class ProdutorEndpoints
         .WithName("GetAllProdutors")
         .WithOpenApi();
 
-        group.MapGet("/{id}", async Task<Results<Ok<Produtor>, NotFound>> (string idprodutor, AgroSimply_V2Context db) =>
+        group.MapGet("/{id}", async Task<Results<Ok<Produtor>, NotFound>> (int idprodutor, AgroSimply_V2Context db) =>
         {
             return await db.Produtor.AsNoTracking()
                 .FirstOrDefaultAsync(model => model.IdProdutor == idprodutor)
@@ -28,7 +28,7 @@ public static class ProdutorEndpoints
         .WithName("GetProdutorById")
         .WithOpenApi();
 
-        group.MapPut("/{id}", async Task<Results<Ok, NotFound>> (string idprodutor, Produtor produtor, AgroSimply_V2Context db) =>
+        group.MapPut("/{id}", async Task<Results<Ok, NotFound>> (int idprodutor, Produtor produtor, AgroSimply_V2Context db) =>
         {
             var affected = await db.Produtor
                 .Where(model => model.IdProdutor == idprodutor)
@@ -55,7 +55,7 @@ public static class ProdutorEndpoints
         .WithName("CreateProdutor")
         .WithOpenApi();
 
-        group.MapDelete("/{id}", async Task<Results<Ok, NotFound>> (string idprodutor, AgroSimply_V2Context db) =>
+        group.MapDelete("/{id}", async Task<Results<Ok, NotFound>> (int idprodutor, AgroSimply_V2Context db) =>
         {
             var affected = await db.Produtor
                 .Where(model => model.IdProdutor == idprodutor)
