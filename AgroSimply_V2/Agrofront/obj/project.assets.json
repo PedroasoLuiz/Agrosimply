@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\pedro\\.nuget\\packages\\": {}
+    "C:\\Users\\camil\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pedro\\Projetos em execução\\Agrosimply\\AgroSimply_V2\\Agrofront\\Agrofront.csproj",
+      "projectUniqueName": "C:\\Users\\camil\\Desktop\\5 PERIODO\\BE\\Hackaton\\Agrosimply\\AgroSimply_V2\\Agrofront\\Agrofront.csproj",
       "projectName": "Agrofront",
-      "projectPath": "C:\\Users\\pedro\\Projetos em execução\\Agrosimply\\AgroSimply_V2\\Agrofront\\Agrofront.csproj",
-      "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pedro\\Projetos em execução\\Agrosimply\\AgroSimply_V2\\Agrofront\\obj\\",
+      "projectPath": "C:\\Users\\camil\\Desktop\\5 PERIODO\\BE\\Hackaton\\Agrosimply\\AgroSimply_V2\\Agrofront\\Agrofront.csproj",
+      "packagesPath": "C:\\Users\\camil\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\camil\\Desktop\\5 PERIODO\\BE\\Hackaton\\Agrosimply\\AgroSimply_V2\\Agrofront\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\camil\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
