@@ -18,6 +18,14 @@ namespace AgroSimply_V2.Data
             modelBuilder.Entity<Produtor>().HasData(GetSeedDataProdutor());
             modelBuilder.Entity<Propriedade>().HasData(GetSeedDataPropriedade());
         }
+        public DbSet<AgroSimply_V2.Produtor> Produtor { get; set; } = default!;
+
+        public DbSet<AgroSimply_V2.Propriedade> Propriedade { get; set; } = default!;
+
+        public DbSet<AgroSimply_V2.Telefone> Telefone { get; set; } = default!;
+
+        public DbSet<AgroSimply_V2.Usuario> Usuario { get; set; } = default!;
+
 
         private Propriedade[] GetSeedDataPropriedade() => new Propriedade[]
         {
@@ -45,13 +53,7 @@ namespace AgroSimply_V2.Data
            }
         };
 
-        public DbSet<AgroSimply_V2.Produtor> Produtor { get; set; } = default!;
-
-        public DbSet<AgroSimply_V2.Propriedade> Propriedade { get; set; } = default!;
-
-        public DbSet<AgroSimply_V2.Telefone> Telefone { get; set; } = default!;
-
-        public DbSet<AgroSimply_V2.Usuario> Usuario { get; set; } = default!;
+        
 
     }
 }

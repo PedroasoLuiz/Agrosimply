@@ -29,3 +29,34 @@ C:\Users\pedro\Projetos em execução\Agrosimply\AgroSimply_V2\Agrofront\obj\Deb
 C:\Users\pedro\Projetos em execução\Agrosimply\AgroSimply_V2\Agrofront\obj\Debug\net7.0\Agrofront.pdb
 C:\Users\pedro\Projetos em execução\Agrosimply\AgroSimply_V2\Agrofront\obj\Debug\net7.0\Agrofront.genruntimeconfig.cache
 C:\Users\pedro\Projetos em execução\Agrosimply\AgroSimply_V2\Agrofront\obj\Debug\net7.0\ref\Agrofront.dll
+C:\Users\camil\Desktop\5 PERIODO\BE\Hackaton\Agrosimply\AgroSimply_V2\Agrofront\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\camil\Desktop\5 PERIODO\BE\Hackaton\Agrosimply\AgroSimply_V2\Agrofront\bin\Debug\net7.0\appsettings.json
+C:\Users\camil\Desktop\5 PERIODO\BE\Hackaton\Agrosimply\AgroSimply_V2\Agrofront\bin\Debug\net7.0\Agrofront.staticwebassets.runtime.json
+C:\Users\camil\Desktop\5 PERIODO\BE\Hackaton\Agrosimply\AgroSimply_V2\Agrofront\bin\Debug\net7.0\Agrofront.exe
+C:\Users\camil\Desktop\5 PERIODO\BE\Hackaton\Agrosimply\AgroSimply_V2\Agrofront\bin\Debug\net7.0\Agrofront.deps.json
+C:\Users\camil\Desktop\5 PERIODO\BE\Hackaton\Agrosimply\AgroSimply_V2\Agrofront\bin\Debug\net7.0\Agrofront.runtimeconfig.json
+C:\Users\camil\Desktop\5 PERIODO\BE\Hackaton\Agrosimply\AgroSimply_V2\Agrofront\bin\Debug\net7.0\Agrofront.dll
+C:\Users\camil\Desktop\5 PERIODO\BE\Hackaton\Agrosimply\AgroSimply_V2\Agrofront\bin\Debug\net7.0\Agrofront.pdb
+C:\Users\camil\Desktop\5 PERIODO\BE\Hackaton\Agrosimply\AgroSimply_V2\Agrofront\obj\Debug\net7.0\Agrofront.csproj.AssemblyReference.cache
+C:\Users\camil\Desktop\5 PERIODO\BE\Hackaton\Agrosimply\AgroSimply_V2\Agrofront\obj\Debug\net7.0\Agrofront.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camil\Desktop\5 PERIODO\BE\Hackaton\Agrosimply\AgroSimply_V2\Agrofront\obj\Debug\net7.0\Agrofront.AssemblyInfoInputs.cache
+C:\Users\camil\Desktop\5 PERIODO\BE\Hackaton\Agrosimply\AgroSimply_V2\Agrofront\obj\Debug\net7.0\Agrofront.AssemblyInfo.cs
+C:\Users\camil\Desktop\5 PERIODO\BE\Hackaton\Agrosimply\AgroSimply_V2\Agrofront\obj\Debug\net7.0\Agrofront.csproj.CoreCompileInputs.cache
+C:\Users\camil\Desktop\5 PERIODO\BE\Hackaton\Agrosimply\AgroSimply_V2\Agrofront\obj\Debug\net7.0\Agrofront.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\camil\Desktop\5 PERIODO\BE\Hackaton\Agrosimply\AgroSimply_V2\Agrofront\obj\Debug\net7.0\Agrofront.RazorAssemblyInfo.cache
+C:\Users\camil\Desktop\5 PERIODO\BE\Hackaton\Agrosimply\AgroSimply_V2\Agrofront\obj\Debug\net7.0\Agrofront.RazorAssemblyInfo.cs
+C:\Users\camil\Desktop\5 PERIODO\BE\Hackaton\Agrosimply\AgroSimply_V2\Agrofront\obj\Debug\net7.0\staticwebassets\msbuild.Agrofront.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\camil\Desktop\5 PERIODO\BE\Hackaton\Agrosimply\AgroSimply_V2\Agrofront\obj\Debug\net7.0\staticwebassets\msbuild.build.Agrofront.props
+C:\Users\camil\Desktop\5 PERIODO\BE\Hackaton\Agrosimply\AgroSimply_V2\Agrofront\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Agrofront.props
+C:\Users\camil\Desktop\5 PERIODO\BE\Hackaton\Agrosimply\AgroSimply_V2\Agrofront\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Agrofront.props
+C:\Users\camil\Desktop\5 PERIODO\BE\Hackaton\Agrosimply\AgroSimply_V2\Agrofront\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\camil\Desktop\5 PERIODO\BE\Hackaton\Agrosimply\AgroSimply_V2\Agrofront\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\camil\Desktop\5 PERIODO\BE\Hackaton\Agrosimply\AgroSimply_V2\Agrofront\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\camil\Desktop\5 PERIODO\BE\Hackaton\Agrosimply\AgroSimply_V2\Agrofront\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\camil\Desktop\5 PERIODO\BE\Hackaton\Agrosimply\AgroSimply_V2\Agrofront\obj\Debug\net7.0\scopedcss\bundle\Agrofront.styles.css
+C:\Users\camil\Desktop\5 PERIODO\BE\Hackaton\Agrosimply\AgroSimply_V2\Agrofront\obj\Debug\net7.0\scopedcss\projectbundle\Agrofront.bundle.scp.css
+C:\Users\camil\Desktop\5 PERIODO\BE\Hackaton\Agrosimply\AgroSimply_V2\Agrofront\obj\Debug\net7.0\Agrofront.dll
+C:\Users\camil\Desktop\5 PERIODO\BE\Hackaton\Agrosimply\AgroSimply_V2\Agrofront\obj\Debug\net7.0\refint\Agrofront.dll
+C:\Users\camil\Desktop\5 PERIODO\BE\Hackaton\Agrosimply\AgroSimply_V2\Agrofront\obj\Debug\net7.0\Agrofront.pdb
+C:\Users\camil\Desktop\5 PERIODO\BE\Hackaton\Agrosimply\AgroSimply_V2\Agrofront\obj\Debug\net7.0\Agrofront.genruntimeconfig.cache
+C:\Users\camil\Desktop\5 PERIODO\BE\Hackaton\Agrosimply\AgroSimply_V2\Agrofront\obj\Debug\net7.0\ref\Agrofront.dll
