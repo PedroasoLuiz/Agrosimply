@@ -15,7 +15,7 @@ namespace AgroSimply_V2.Data
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            //modelBuilder.Entity<Produtor>().HasData(GetSeedDataProdutor());
+            modelBuilder.Entity<Produtor>().HasData(GetSeedDataProdutor());
             modelBuilder.Entity<Propriedade>().HasData(GetSeedDataPropriedade());
         }
 
