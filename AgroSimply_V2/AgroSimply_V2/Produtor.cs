@@ -12,5 +12,8 @@ namespace AgroSimply_V2
         public int CNPJ { get; set; }
         private string Senha { get; set; }
         public string Atividade {get; set;}
+
+        public ICollection<Propriedade> Propriedades { get; set; }
+
     }
 }

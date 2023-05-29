@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "SXRkdm4My4IdkKpGpHcC+9chmfW5DqVz5RiBZbRsr8yYpWidH2tqAhfS75J0N6AetXKScbDVzfxXxYt+UvQDQw==",
+  "dgSpecHash": "IqIyantIv/7vv3zqCSI6rf3E3/nYmK1cx3inenLJhhFYY9bFKUnE9pR1sP7ELCAptMbIbhXUyPxB1l3ZPcohnw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\camil\\Desktop\\5 PERIODO\\BE\\Hackaton\\Agrosimply\\AgroSimply_V2\\Agrofront\\Agrofront.csproj",
+  "projectFilePath": "C:\\Users\\pedro\\Projetos em execução\\Agrosimply\\AgroSimply_V2\\Agrofront\\Agrofront.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\camil\\.nuget\\packages\\microsoft.extensions.apidescription.server\\7.0.5\\microsoft.extensions.apidescription.server.7.0.5.nupkg.sha512"
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.extensions.apidescription.server\\7.0.5\\microsoft.extensions.apidescription.server.7.0.5.nupkg.sha512"
   ],
   "logs": []
 }

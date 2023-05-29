@@ -8,7 +8,7 @@ using System;
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddDbContext<AgroSimply_V2Context>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("AgroSimply_V2Context") ?? throw new InvalidOperationException("Connection string 'AgroSimply_V2Context' not found.")));
+    options.UseSqlServer(builder.Configuration.GetConnectionString("Data/AgroSimply_V2Context") ?? throw new InvalidOperationException("Connection string 'AgroSimply_V2Context' not found.")));
 
 // Add services to the container.
 builder.Services.AddEndpointsApiExplorer();
