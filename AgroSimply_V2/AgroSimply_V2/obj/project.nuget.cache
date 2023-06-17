@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ioKRxkreSyPWVMS683KVCYfagijxJ7dT8pun3AWANgKlYQVgZIsb869aIpg4wQgRWZOFLrfwoEdsQw9cL1hw9w==",
+  "dgSpecHash": "ltquxL63r+dzSp3btWkFhhktPHG7dkHUEdweDrO+sHO4i6WbZRqao7T1OaAOSTpbnNtHCUJVt2WOkmdyJx+bFQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pedro\\Projetos em execução\\Agrosimply\\AgroSimply_V2\\AgroSimply_V2\\AgroSimply_V2.csproj",
+  "projectFilePath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\Agrosimply\\AgroSimply_V2\\AgroSimply_V2\\AgroSimply_V2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pedro\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\pedro\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

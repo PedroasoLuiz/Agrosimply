@@ -1,5 +1,4 @@
-﻿
-* {
+﻿* {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
@@ -7,13 +6,13 @@
 }
 
 body {
-    display: flex;
+    display: center;
     height: 100vh;
     justify-content: center;
     align-items: center;
     /* background-color:   #8B4513;
     background-size: cover; */
-    background-image: url(fundoo.png);
+    background-image: url(bela.jpg);
 }
 
 .container {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IqIyantIv/7vv3zqCSI6rf3E3/nYmK1cx3inenLJhhFYY9bFKUnE9pR1sP7ELCAptMbIbhXUyPxB1l3ZPcohnw==",
+  "dgSpecHash": "C1ev2OVwD4MlQeEHKsROswMcnOGvvMpRCf1bUCBhDnyPvNoaAYLtosyMqIDJBsDAh38AjOh514aKSq2SFCS//Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pedro\\Projetos em execução\\Agrosimply\\AgroSimply_V2\\Agrofront\\Agrofront.csproj",
+  "projectFilePath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\Agrosimply\\AgroSimply_V2\\Agrofront\\Agrofront.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pedro\\.nuget\\packages\\microsoft.extensions.apidescription.server\\7.0.5\\microsoft.extensions.apidescription.server.7.0.5.nupkg.sha512"
   ],

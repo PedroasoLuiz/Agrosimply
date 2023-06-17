@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pedro\\Projetos em execução\\Agrosimply\\AgroSimply_V2\\Agrofront\\Agrofront.csproj": {}
+    "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\Agrosimply\\AgroSimply_V2\\Agrofront\\Agrofront.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pedro\\Projetos em execução\\Agrosimply\\AgroSimply_V2\\Agrofront\\Agrofront.csproj": {
+    "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\Agrosimply\\AgroSimply_V2\\Agrofront\\Agrofront.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pedro\\Projetos em execução\\Agrosimply\\AgroSimply_V2\\Agrofront\\Agrofront.csproj",
+        "projectUniqueName": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\Agrosimply\\AgroSimply_V2\\Agrofront\\Agrofront.csproj",
         "projectName": "Agrofront",
-        "projectPath": "C:\\Users\\pedro\\Projetos em execução\\Agrosimply\\AgroSimply_V2\\Agrofront\\Agrofront.csproj",
+        "projectPath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\Agrosimply\\AgroSimply_V2\\Agrofront\\Agrofront.csproj",
         "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pedro\\Projetos em execução\\Agrosimply\\AgroSimply_V2\\Agrofront\\obj\\",
+        "outputPath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\Agrosimply\\AgroSimply_V2\\Agrofront\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -66,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }
