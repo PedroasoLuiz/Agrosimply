@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\Agrosimply\\AgroSimply_V2\\AgroSimply_V2\\AgroSimply_V2.csproj": {}
+    "D:\\Documents\\GitHub\\Agrosimply\\AgroSimply_V2\\AgroSimply_V2\\AgroSimply_V2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\Agrosimply\\AgroSimply_V2\\AgroSimply_V2\\AgroSimply_V2.csproj": {
+    "D:\\Documents\\GitHub\\Agrosimply\\AgroSimply_V2\\AgroSimply_V2\\AgroSimply_V2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\Agrosimply\\AgroSimply_V2\\AgroSimply_V2\\AgroSimply_V2.csproj",
+        "projectUniqueName": "D:\\Documents\\GitHub\\Agrosimply\\AgroSimply_V2\\AgroSimply_V2\\AgroSimply_V2.csproj",
         "projectName": "AgroSimply_V2",
-        "projectPath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\Agrosimply\\AgroSimply_V2\\AgroSimply_V2\\AgroSimply_V2.csproj",
-        "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\Agrosimply\\AgroSimply_V2\\AgroSimply_V2\\obj\\",
+        "projectPath": "D:\\Documents\\GitHub\\Agrosimply\\AgroSimply_V2\\AgroSimply_V2\\AgroSimply_V2.csproj",
+        "packagesPath": "C:\\Users\\bruno.rezende\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\GitHub\\Agrosimply\\AgroSimply_V2\\AgroSimply_V2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bruno.rezende\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -41,43 +41,51 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.7, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "[7.0.5, )"
+              "version": "[7.0.7, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[7.0.5, )"
+              "version": "[7.0.7, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.5, )"
+              "version": "[7.0.7, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[7.0.5, )"
+              "version": "[7.0.7, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.5, )"
+              "version": "[7.0.7, )"
             },
             "Microsoft.Extensions.ApiDescription.Server": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.5, )"
+              "version": "[7.0.7, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[7.0.6, )"
+              "version": "[7.0.7, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.4.0, )"
+              "version": "[6.5.0, )"
             }
           },
           "imports": [

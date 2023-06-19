@@ -7,7 +7,7 @@ namespace AgroSimply_V2
         [Key]
         public string IdUsuario { get; set; }
         public int ProdutorId { get; set; }
-        public string CPF { get; set; }       
+        public string CPF { get; set; }
         private string Senha { get; set; }
         public int Tipo { get; set; }
     }

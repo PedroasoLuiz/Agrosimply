@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\Agrosimply\\AgroSimply_V2\\Agrofront\\Agrofront.csproj": {}
+    "D:\\Documents\\GitHub\\Agrosimply\\AgroSimply_V2\\Agrofront\\Agrofront.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\Agrosimply\\AgroSimply_V2\\Agrofront\\Agrofront.csproj": {
+    "D:\\Documents\\GitHub\\Agrosimply\\AgroSimply_V2\\Agrofront\\Agrofront.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\Agrosimply\\AgroSimply_V2\\Agrofront\\Agrofront.csproj",
+        "projectUniqueName": "D:\\Documents\\GitHub\\Agrosimply\\AgroSimply_V2\\Agrofront\\Agrofront.csproj",
         "projectName": "Agrofront",
-        "projectPath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\Agrosimply\\AgroSimply_V2\\Agrofront\\Agrofront.csproj",
-        "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\Agrosimply\\AgroSimply_V2\\Agrofront\\obj\\",
+        "projectPath": "D:\\Documents\\GitHub\\Agrosimply\\AgroSimply_V2\\Agrofront\\Agrofront.csproj",
+        "packagesPath": "C:\\Users\\bruno.rezende\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\GitHub\\Agrosimply\\AgroSimply_V2\\Agrofront\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bruno.rezende\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -41,11 +41,19 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.7, )"
+            },
             "Microsoft.Extensions.ApiDescription.Server": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.5, )"
+              "version": "[7.0.7, )"
             }
           },
           "imports": [

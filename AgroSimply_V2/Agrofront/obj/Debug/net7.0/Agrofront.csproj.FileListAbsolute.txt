@@ -91,3 +91,34 @@ C:\Users\pedro\OneDrive\Área de Trabalho\Agrosimply\AgroSimply_V2\Agrofront\obj
 C:\Users\pedro\OneDrive\Área de Trabalho\Agrosimply\AgroSimply_V2\Agrofront\obj\Debug\net7.0\Agrofront.pdb
 C:\Users\pedro\OneDrive\Área de Trabalho\Agrosimply\AgroSimply_V2\Agrofront\obj\Debug\net7.0\Agrofront.genruntimeconfig.cache
 C:\Users\pedro\OneDrive\Área de Trabalho\Agrosimply\AgroSimply_V2\Agrofront\obj\Debug\net7.0\ref\Agrofront.dll
+D:\Documents\GitHub\Agrosimply\AgroSimply_V2\Agrofront\bin\Debug\net7.0\appsettings.Development.json
+D:\Documents\GitHub\Agrosimply\AgroSimply_V2\Agrofront\bin\Debug\net7.0\appsettings.json
+D:\Documents\GitHub\Agrosimply\AgroSimply_V2\Agrofront\bin\Debug\net7.0\Agrofront.staticwebassets.runtime.json
+D:\Documents\GitHub\Agrosimply\AgroSimply_V2\Agrofront\bin\Debug\net7.0\Agrofront.exe
+D:\Documents\GitHub\Agrosimply\AgroSimply_V2\Agrofront\bin\Debug\net7.0\Agrofront.deps.json
+D:\Documents\GitHub\Agrosimply\AgroSimply_V2\Agrofront\bin\Debug\net7.0\Agrofront.runtimeconfig.json
+D:\Documents\GitHub\Agrosimply\AgroSimply_V2\Agrofront\bin\Debug\net7.0\Agrofront.dll
+D:\Documents\GitHub\Agrosimply\AgroSimply_V2\Agrofront\bin\Debug\net7.0\Agrofront.pdb
+D:\Documents\GitHub\Agrosimply\AgroSimply_V2\Agrofront\obj\Debug\net7.0\Agrofront.csproj.AssemblyReference.cache
+D:\Documents\GitHub\Agrosimply\AgroSimply_V2\Agrofront\obj\Debug\net7.0\Agrofront.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\Agrosimply\AgroSimply_V2\Agrofront\obj\Debug\net7.0\Agrofront.AssemblyInfoInputs.cache
+D:\Documents\GitHub\Agrosimply\AgroSimply_V2\Agrofront\obj\Debug\net7.0\Agrofront.AssemblyInfo.cs
+D:\Documents\GitHub\Agrosimply\AgroSimply_V2\Agrofront\obj\Debug\net7.0\Agrofront.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Agrosimply\AgroSimply_V2\Agrofront\obj\Debug\net7.0\Agrofront.MvcApplicationPartsAssemblyInfo.cache
+D:\Documents\GitHub\Agrosimply\AgroSimply_V2\Agrofront\obj\Debug\net7.0\Agrofront.RazorAssemblyInfo.cache
+D:\Documents\GitHub\Agrosimply\AgroSimply_V2\Agrofront\obj\Debug\net7.0\Agrofront.RazorAssemblyInfo.cs
+D:\Documents\GitHub\Agrosimply\AgroSimply_V2\Agrofront\obj\Debug\net7.0\staticwebassets\msbuild.Agrofront.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Documents\GitHub\Agrosimply\AgroSimply_V2\Agrofront\obj\Debug\net7.0\staticwebassets\msbuild.build.Agrofront.props
+D:\Documents\GitHub\Agrosimply\AgroSimply_V2\Agrofront\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Agrofront.props
+D:\Documents\GitHub\Agrosimply\AgroSimply_V2\Agrofront\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Agrofront.props
+D:\Documents\GitHub\Agrosimply\AgroSimply_V2\Agrofront\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Documents\GitHub\Agrosimply\AgroSimply_V2\Agrofront\obj\Debug\net7.0\staticwebassets.build.json
+D:\Documents\GitHub\Agrosimply\AgroSimply_V2\Agrofront\obj\Debug\net7.0\staticwebassets.development.json
+D:\Documents\GitHub\Agrosimply\AgroSimply_V2\Agrofront\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Documents\GitHub\Agrosimply\AgroSimply_V2\Agrofront\obj\Debug\net7.0\scopedcss\bundle\Agrofront.styles.css
+D:\Documents\GitHub\Agrosimply\AgroSimply_V2\Agrofront\obj\Debug\net7.0\scopedcss\projectbundle\Agrofront.bundle.scp.css
+D:\Documents\GitHub\Agrosimply\AgroSimply_V2\Agrofront\obj\Debug\net7.0\Agrofront.dll
+D:\Documents\GitHub\Agrosimply\AgroSimply_V2\Agrofront\obj\Debug\net7.0\refint\Agrofront.dll
+D:\Documents\GitHub\Agrosimply\AgroSimply_V2\Agrofront\obj\Debug\net7.0\Agrofront.pdb
+D:\Documents\GitHub\Agrosimply\AgroSimply_V2\Agrofront\obj\Debug\net7.0\Agrofront.genruntimeconfig.cache
+D:\Documents\GitHub\Agrosimply\AgroSimply_V2\Agrofront\obj\Debug\net7.0\ref\Agrofront.dll
